@@ -1,0 +1,16 @@
+[package]
+name = "stitchy"
+version = "0.1.0"
+edition = "2018"
+author = "[Rachdi Sami <rachdi.sami@gmail.com>]"
+description = "cute peepo will repeat what you say"
+license = "MIT OR Apache-2.0"
+repository = ""
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+exitfailure = "0.5.1"
+raster = "0.2.0"
+walkdir = "2.3.2"
